@@ -1,0 +1,26 @@
+E:\Meus Documentos\Área de Trabalho\Ex sexta\bin\Debug\netcoreapp3.1\Ex sexta.exe
+E:\Meus Documentos\Área de Trabalho\Ex sexta\bin\Debug\netcoreapp3.1\Ex sexta.deps.json
+E:\Meus Documentos\Área de Trabalho\Ex sexta\bin\Debug\netcoreapp3.1\Ex sexta.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\Ex sexta\bin\Debug\netcoreapp3.1\Ex sexta.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\Ex sexta\bin\Debug\netcoreapp3.1\Ex sexta.dll
+E:\Meus Documentos\Área de Trabalho\Ex sexta\bin\Debug\netcoreapp3.1\Ex sexta.pdb
+E:\Meus Documentos\Área de Trabalho\Ex sexta\obj\Debug\netcoreapp3.1\Ex sexta.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\Ex sexta\obj\Debug\netcoreapp3.1\Ex sexta.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\Ex sexta\obj\Debug\netcoreapp3.1\Ex sexta.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\Ex sexta\obj\Debug\netcoreapp3.1\Ex sexta.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\Ex sexta\obj\Debug\netcoreapp3.1\Ex sexta.dll
+E:\Meus Documentos\Área de Trabalho\Ex sexta\obj\Debug\netcoreapp3.1\Ex sexta.pdb
+E:\Meus Documentos\Área de Trabalho\Ex sexta\obj\Debug\netcoreapp3.1\Ex sexta.genruntimeconfig.cache
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\bin\Debug\netcoreapp3.1\Ex sexta.exe
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\bin\Debug\netcoreapp3.1\Ex sexta.deps.json
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\bin\Debug\netcoreapp3.1\Ex sexta.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\bin\Debug\netcoreapp3.1\Ex sexta.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\bin\Debug\netcoreapp3.1\Ex sexta.dll
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\bin\Debug\netcoreapp3.1\Ex sexta.pdb
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\obj\Debug\netcoreapp3.1\Ex sexta.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\obj\Debug\netcoreapp3.1\Ex sexta.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\obj\Debug\netcoreapp3.1\Ex sexta.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\obj\Debug\netcoreapp3.1\Ex sexta.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\obj\Debug\netcoreapp3.1\Ex sexta.dll
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\obj\Debug\netcoreapp3.1\Ex sexta.pdb
+E:\Meus Documentos\Área de Trabalho\Sistema-produtos\obj\Debug\netcoreapp3.1\Ex sexta.genruntimeconfig.cache
